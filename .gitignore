@@ -1,6 +1,10 @@
 .DS_Store
 activities/.ipynb_checkpoints/03_merging_exact_blank-checkpoint.ipynb
+<<<<<<< HEAD
 problemsets/pset2/.ipynb_checkpoints/pset2_blank-checkpoint.ipynb
 problemsets/pset2/.ipynb_checkpoints/pset2_charsadelain-checkpoint.ipynb
 problemsets/pset2/.ipynb_checkpoints/pset2_blank-checkpoint.ipynb
 problemsets/pset2/.ipynb_checkpoints/pset2_blank-checkpoint.ipynb
+=======
+problemsets/pset3/.ipynb_checkpoints/pset3_blank-checkpoint.ipynb
+>>>>>>> 1b50340a9cb386843aa36c51b51ffe072fbf57b8
